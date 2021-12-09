@@ -21,7 +21,7 @@ public class ExtentReportNG {
 //		String reportPath = System.getProperty("user.dir")+
 //				"/Reports/BHEdExtentReport.html";
 		String reportPath = System.getProperty("user.dir")+
-				"/Reports/LogoTest.html";
+				"/Reports/BHEdExtentReport.html";
 		
 		ExtentSparkReporter sparkReport = new ExtentSparkReporter(reportPath);
 
